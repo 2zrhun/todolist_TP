@@ -1,9 +1,9 @@
 # createurs du project
 
 nous vous presentons notre modeste project fait par:
-*Mehdi 
-*Loui
-*Hamza
+* Mehdi 
+* Loui
+* Hamza
 
 # Installation
 
