@@ -1,9 +1,10 @@
-# createurs du project
+# Group 8
 
-nous vous presentons notre modeste project fait par:
 * Mehdi 
 * Loui
 * Hamza
+
+
 
 # Installation
 
