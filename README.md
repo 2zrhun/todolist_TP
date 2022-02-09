@@ -18,7 +18,7 @@ git clone https://github.com/2zrhun/note-app-group-piscineIpssi.git
 ````cmd
 cd note-app-group-piscineIpssi
 ````
-- Une fois posiotionner dans le répertoire taper :
+- Une fois positionner dans le répertoire taper :
 ``````cmd
 npm install
 ``````
