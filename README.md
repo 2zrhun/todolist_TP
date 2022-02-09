@@ -12,7 +12,7 @@ Taper dans votre Terminal:
 
 - Pour récupérer le repo : 
 
-`````HTTP
+`````CMD
 git clone https://github.com/2zrhun/note-app-group-piscineIpssi.git
 `````
 
