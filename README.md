@@ -13,7 +13,8 @@ Taper dans votre Terminal:
 - Pour récupérer le repo : 
 
 `````HTTP
-git clone https://github.com/2zrhun/note-app-group-piscineIpssi.git`
+git clone https://github.com/2zrhun/note-app-group-piscineIpssi.git
+`````
 
 - Ensuite pour se positionner dans le répertoire de l'application :
 
